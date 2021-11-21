@@ -10,4 +10,4 @@ Find all occurrences of a line of text (or) code within a directory.
 - Specify file extention type(s) to search through 
 
 ## Example
-<img alt="Icon" src="https://raw.githubusercontent.com/ZaahierAdams/Text-Code-Finder/main/Example.PNG" width="60%"></img>
+<img alt="Icon" src="https://raw.githubusercontent.com/ZaahierAdams/Text-Code-Finder/main/Example.PNG" width="80%"></img>
